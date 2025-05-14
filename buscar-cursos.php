@@ -1,8 +1,9 @@
+#!/usr/bin/env php
 <?php
 
 namespace Alura\BuscadorDeCursos;
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/vendor/autoload.php";
 
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
